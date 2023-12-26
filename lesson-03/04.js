@@ -61,7 +61,7 @@ const users = [
     }
 ];
 
-let result = users.filter((e) => {
+let result98 = users.filter((e) => {
     return e.id % 2 == 0
 })
-console.log(result);
+console.log(result98);
